@@ -1,0 +1,7 @@
+{
+  "name": "app-meu-backoffice-protheus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
